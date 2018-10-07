@@ -57,7 +57,6 @@
                 <groupId>com.agilejava.docbkx</groupId>
                 <artifactId>docbkx-maven-plugin</artifactId>
                 <version>2.0.14</version>   
-                <!--         
                 <dependencies>
                     <dependency>
                         <groupId>org.docbook</groupId>
@@ -82,7 +81,6 @@
                         <classifier>dev</classifier>
                     </dependency>
                 </dependencies>
-            -->
                 <executions>
                     <execution>
                         <id>generate-pdf</id>
